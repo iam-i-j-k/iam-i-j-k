@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-i-j-k
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate with Full-stack Developers
 - 📫 How to reach me irfanjankhan7860@gmail.com
 - 💬 Ask me about: HTML, CSS, JS, Java, C, PYTHON, C++
